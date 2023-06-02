@@ -1,0 +1,53 @@
+username,repo_name,stars,repo_url,topics
+fighting41love,funNLP,50.4k,https://github.com/fighting41love/funNLP,
+pandas-dev,pandas,38.4k,https://github.com/pandas-dev/pandas,pandas; python; data-analysis; data-science; flexible; alignment
+gchq,CyberChef,21.2k,https://github.com/gchq/CyberChef,hashing; encoding; compression; encryption; parsing; data-analysis; data-manipulation
+wesm,pydata-book,19.4k,https://github.com/wesm/pydata-book,
+davisking,dlib,12k,https://github.com/davisking/dlib,c-plus-plus; python; machine-learning; computer-vision; deep-learning; machine-learning-library; dlib
+keplergl,kepler.gl,9.4k,https://github.com/keplergl/kepler.gl,visualization; geospatial; data-visualization; kepler; mapbox
+google,pprof,6.5k,https://github.com/google/pprof,performance; profiler; performance-analysis; pprof
+tangyudi,Ai-Learn,6.3k,https://github.com/tangyudi/Ai-Learn,pytorch; deep-learning; keras; python; numpy; pandas; nlp; data-science; machine-learning; data-mining; algorithm; caffe; tensorflow; cv; mathematics; seaborn; artificial-intelligence; data-analysis; matplotlib; tensorflow2
+iamseancheney,python_for_data_analysis_2nd_chinese_version,6.1k,https://github.com/iamseancheney/python_for_data_analysis_2nd_chinese_version,numpy; pandas; matplotlib
+donnemartin,dev-setup,5.9k,https://github.com/donnemartin/dev-setup,nodejs; mysql; python; git; vim; macos; linux; bash; redis; cli; mac; aws; elasticsearch; cloud; spark; mongodb; iterm2; sublime-text; postgresql; android-development
+dformoso,machine-learning-mindmap,5.8k,https://github.com/dformoso/machine-learning-mindmap,python; learning; science; data; machine-learning; jupyter; machine; cheatsheet; mindmap
+rhiever,Data-Analysis-and-Machine-Learning-Projects,5.6k,https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects,machine-learning; python; data-science; ipython-notebook; data-analysis; evolutionary-algorithm
+ujjwalkarn,DataSciencePython,4.8k,https://github.com/ujjwalkarn/DataSciencePython,python; data-science; data-scientists; python-tutorial
+WillKoehrsen,Data-Analysis,4.7k,https://github.com/WillKoehrsen/Data-Analysis,
+rasbt,mlxtend,4.4k,https://github.com/rasbt/mlxtend,python; machine-learning; data-science; data-mining; supervised-learning; unsupervised-learning; association-rules
+facebookresearch,Kats,4.4k,https://github.com/facebookresearch/Kats,
+Alfred1984,interesting-python,4.4k,https://github.com/Alfred1984/interesting-python,
+biolab,orange3,4.1k,https://github.com/biolab/orange3,python; visualization; data-science; machine-learning; data-mining; random-forest; clustering; numpy; scikit-learn; regression; pandas; data-visualization; classification; scipy; orange; plotting; decision-trees; visual-programming; orange3
+NAalytics,Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273,3.4k,https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273,
+antvis,L7,3.1k,https://github.com/antvis/L7,map; webgl; maps; geojson; javascript; geospatial; gis; data-visualization; polygon; point; mapbox; 3d; amap; antv
+google,deepvariant,2.8k,https://github.com/google/deepvariant,deep-learning; bioinformatics; genomics; ngs; sequencing; science; machine-learning; genome; tensorflow; dna; deep-neural-network; deepvariant
+airbnb,streamalert,2.8k,https://github.com/airbnb/streamalert,rules; aws; security; lambda; serverless; analysis; terraform; kinesis
+Kanaries,Rath,2.7k,https://github.com/Kanaries/Rath,data-analysis; data-visualization; visualization; machine-learning; eda; tableau; data-exploration; causality; causal-inference; datamining; autovis; causal-discovery; automated-visualization; k6s; automated-data-analysis; augmented-analytics; kanaries; tableau-alternative
+Netflix-Skunkworks,Scumblr,2.6k,https://github.com/Netflix-Skunkworks/Scumblr,security
+WeBankFinTech,DataSphereStudio,2.6k,https://github.com/WeBankFinTech/DataSphereStudio,workflow; airflow; spark; hive; hadoop; kettle; hue; tableau; flink; zeppelin; griffin; atlas; azkaban; governance; davinci; visualis; supperset; linkis; dolphinscheduler; dataworks
+seandavi,awesome-single-cell,2.5k,https://github.com/seandavi/awesome-single-cell,single-cell; clustering; awesome-list; bioinformatics; dimensionality-reduction; python; analysis; gene-expression; data-visualization; data-integration; atac-seq; rna-seq-data; scrna-seq-data; cell-cycle; cell-differentiation; gene-expression-profiles; analysis-pipeline; cell-populations; rna-seq-experiments; cell-clusters
+minimaxir,"facebook-page-post-scraper
+
+            Public archive",2.1k,https://github.com/minimaxir/facebook-page-post-scraper,
+kayak,pypika,2k,https://github.com/kayak/pypika,python; data; builder; query; functional; sql; python3; pythonic
+avehtari,BDA_course_Aalto,2k,https://github.com/avehtari/BDA_course_Aalto,
+Qihoo360,Quicksql,2k,https://github.com/Qihoo360/Quicksql,sql; spark; hive; flink
+bitly,data_hacks,1.9k,https://github.com/bitly/data_hacks,
+shzlw,poli,1.9k,https://github.com/shzlw/poli,sql; reporting; spring-boot; dashboard; reactjs; jdbc; bigdata; data-visualization; business-intelligence; sql-editor
+JerBouma,FinanceDatabase,1.9k,https://github.com/JerBouma/FinanceDatabase,python; finance; database; analysis; stock-market; cryptocurrencies; currencies; fundamentals; stock-data; futures; equities; funds; fundamental-analysis; indices; etfs; financials; sector-analysis; moneymarkets; openbb
+hosseinmoein,DataFrame,1.8k,https://github.com/hosseinmoein/DataFrame,data-science; machine-learning; ai; cpp; statistical-analysis; data-analysis; tensorboard; trading-strategies; trading-algorithms; tensor; statistical; dataframe; at; numerical-analysis; efficient-implementations; financial-engineering; multidimensional-data; heterogeneous-data; financial-data-analysis; large-data
+apache,age,1.7k,https://github.com/apache/age,postgresql; analytics; graph-database; graphdb; postgresql-extension; multi-model-dbms; agensgraph; age-database
+JuliaPlots,Plots.jl,1.7k,https://github.com/JuliaPlots/Plots.jl,plotting; visualization; julia; julia-language; hacktoberfest
+marcomusy,vedo,1.6k,https://github.com/marcomusy/vedo,mesh; 3d; visualization; python; numpy; scientific-visualization; simulations; vtk; finite-elements; fenics; 3d-graphics; scientific-research; dolfin
+jadianes,spark-py-notebooks,1.5k,https://github.com/jadianes/spark-py-notebooks,python; data-science; machine-learning; big-data; spark; notebook; ipython; bigdata; ipython-notebook; pyspark; mllib; data-analysis
+fonnesbeck,statistical-analysis-python-tutorial,1.5k,https://github.com/fonnesbeck/statistical-analysis-python-tutorial,
+aptnotes,data,1.5k,https://github.com/aptnotes/data,apt; analysis; malware
+DataBrewery,cubes,1.5k,https://github.com/DataBrewery/cubes,data; sql; data-warehouse; olap; data-analysis; cube; multidimensional-analysis
+apachecn,python_data_analysis_and_mining_action,1.5k,https://github.com/apachecn/python_data_analysis_and_mining_action,data-science; python3; data-analysis; readingnotes
+bdash-app,bdash,1.5k,https://github.com/bdash-app/bdash,electron; visualization; javascript; sql
+ucbrise,confluo,1.4k,https://github.com/ucbrise/confluo,log; atomic; lock-free
+secretflow,secretflow,1.4k,https://github.com/secretflow/secretflow,machine-learning; data-analysis; homomorphic-encryption; differential-privacy; privacy-preserving; federated-learning; trusted-execution-environment; private-set-intersection; split-learning; secure-multiparty-computation
+hadley,ggplot2-book,1.4k,https://github.com/hadley/ggplot2-book,
+JerBouma,FundamentalAnalysis,1.3k,https://github.com/JerBouma/FundamentalAnalysis,analysis; fundamentals; stock-data; financial-statements; fundamental; fundamental-analysis; sector-analysis
+dongsuo,vue-data-board,1.3k,https://github.com/dongsuo/vue-data-board,vue; visualization; bi; drag; data-visualization; business-intelligence; data-analysis; echarts; element-ui; no-code; big-data-analytics; data-analysis-board; databoard
+griffithlab,rnaseq_tutorial,1.2k,https://github.com/griffithlab/rnaseq_tutorial,
+BuzzFeedNews,everything,1.2k,https://github.com/BuzzFeedNews/everything,
